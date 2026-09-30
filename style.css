@@ -1,0 +1,40 @@
+.fa-solid{
+   position: absolute;
+   padding-top: 4px;
+   padding-left: 4px;
+  
+}
+input{
+  padding-left: 20px;
+}
+.bt{
+ border-radius: 12px;
+  outline: none;
+  font-size: 25px;
+  color: #f2f7f6;
+  background-color: #1bfd2e;
+}
+
+
+
+H1{
+  
+  width: 88%;
+  height: 100%;
+  margin-top :0%; ;
+  padding: 50px 80px;
+background: linear-gradient(135deg, #2af598 0%, #86c3e9 100%);
+      color: #ffffff;
+      padding-right: 50px;
+  
+}
+body{
+  margin: 0px;
+  padding: 0px;
+background-color: #d1e2f3
+
+  
+}
+div{
+  margin-top: 15px;
+}
