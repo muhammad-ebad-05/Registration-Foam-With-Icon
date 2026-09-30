@@ -2,6 +2,12 @@
 
 A modern, responsive, and visually appealing Registration Form created using HTML5 and CSS3. This form features integrated icons inside input fields to provide an intuitive user experience across all screen sizes.
 
+🔗 Live Demo
+
+You can check out the live preview of the project here:
+
+👉 View Live Demo
+
 ✨ Features
 
 Responsive Design: Looks great on desktops, tablets, and mobile devices.
@@ -33,6 +39,7 @@ cd Registration-Foam-With-Icon
 
 
 Open the project:
+
 Simply double-click index.html or open it using any modern web browser.
 
 📂 Project Structure
